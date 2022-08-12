@@ -1,12 +1,10 @@
-# Homework4: Global Placement
-Follow the tips in "GlobalPlacer.cpp" to get a placement with min HPWL.
+# Global Placement
 
 ## How to Compile
 In this directory, enter the following command:
 ```
 $ make
 ```
-It will generate the executable file "hw4" in "HW4/".
 
 If you want to remove it, please enter the following command:
 ```
