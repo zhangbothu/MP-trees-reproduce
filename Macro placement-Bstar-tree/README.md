@@ -2,7 +2,7 @@
 
 *Generated result of case "ami33"*
 
-# B\*-Tree with Fast-SA for Solving Fixed-Outline Floorplan Problem
+# B\*-Tree with Fast-SA for Solving Fixed-Outline Floorplan
 - [B\*-Trees: A New Representation for Non-Slicing Floorplans](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=855354)
 - [Modern Floorplanning Based on Fast Simulated Annealing](http://cc.ee.ntu.edu.tw/~ywchang/Papers/ispd05-floorplanning.pdf)
 
@@ -11,8 +11,6 @@
 - gnuplot (optional)
 - Boost >= 1.5 (optional)
 
-## Specification
-`spec/prog2_floorplanning.pdf`
 
 ## File Descriptions
 - `src/{main.cpp, floor_plan.hpp}`: Source files.
